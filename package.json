@@ -1,0 +1,12 @@
+{
+  "name": "telegrambot",
+  "version": "v1.0.0",
+  "main": "src/index.js",
+  "description": "Library for the telegrambot project",
+  "private": true,
+  "author": "Shadden Pisarski <stevepickels@gmail.com>",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "scribbletune": "^3.4.1"
+  }
+}
